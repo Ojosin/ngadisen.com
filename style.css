@@ -1,0 +1,50 @@
+body {
+    min-height: 2000px;
+}
+
+.jumbotron {
+    padding-top: 2rem;
+    background-image: url(img/gunung.jpg);
+    background-size: cover;
+    color: white;
+    font-family: "Aclonica", sans-serif;
+}
+
+.display-4 {
+    padding-top: 120px;
+}
+
+.lead {
+    font-family: "Nunito", sans-serif;
+}
+
+.lead1 {
+    font-family: "Montserrat", sans-serif;
+}
+
+.navbar-nav {
+    font-family: "Montserrat", sans-serif;
+}
+
+.ig {
+    height: 33px;
+    padding-left: 20px;
+}
+
+.icon {
+    padding-left: 20px;
+}
+
+
+/* hr {
+    border-radius: 8px;
+    width: 100px;
+    border-top: 4px solid #666;
+    margin-inline-start: 20px;
+} */
+
+.text {
+    color: white;
+    text-align: center;
+    margin-bottom: 50px;
+}
